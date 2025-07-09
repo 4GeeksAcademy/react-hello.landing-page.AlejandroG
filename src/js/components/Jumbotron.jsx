@@ -1,5 +1,3 @@
-
-
 const Header = () => (
   <div className="jumbotron bg-light p-5 mt-5 rounded-3 text-center">
     <h1 className="display-4">A Warm Welcome!</h1>
@@ -10,5 +8,4 @@ const Header = () => (
     <a href="#" className="btn btn-primary btn-lg">Call to action!</a>
   </div>
 );
-
 export default Header;

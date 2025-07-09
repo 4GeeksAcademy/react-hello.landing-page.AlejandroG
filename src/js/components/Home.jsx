@@ -28,7 +28,6 @@ const Home = () => {
       image: "https://placehold.co/500x325?"
     }
   ];
-
   return (
     <>
       <Navbar />
@@ -45,5 +44,4 @@ const Home = () => {
     </>
   );
 };
-
 export default Home;
